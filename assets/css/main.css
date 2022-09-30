@@ -2644,7 +2644,7 @@ input, select, textarea {
 			margin: 0 0 1em 0;
 			width: 6.25em;
 			height: 6.25em;
-			background-image: url('/images/pfp.jpg');
+			background-image: url('images/pfp.jpg');
 			background-size: 120%;
 			background-position: 65% 15%;
 
